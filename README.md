@@ -25,7 +25,7 @@ The script is ideal for sysadmins, developers, or anyone needing quick insights 
 Clone this repository to your server:
 
 ```bash
-git clone https://github.com/rfntnms/serverstats/server-performance-monitor.git
+git clone https://github.com/rfntnms/serverstats.git
 cd server-performance-monitor
 ```
 
